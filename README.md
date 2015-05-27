@@ -50,7 +50,7 @@ Use solutions folder inside Visual Studio to structure your project. This helps 
 Only the public contracts of the managers are kept in the projects under the `<Concept>` of `Contracts`. The interfaces of Engines and DataAccess are kept within their respective solutions because they don't need to be public. Usually Engines and DataAccess are instantiated InProc and it does not really hurt when the Manager needs a reference to the Engines or DataAccess project(s).
 
 ## ServiceModelEx
-Due to copyright ServiceModelEx might not be distributed. I just have a empty reference project in place of ServiceModelEx. If you need the full library, you’ll have to download it from www.IDesign.net 
+Due to copyright ServiceModelEx might not be distributed. I just have a empty reference project in place of ServiceModelEx. If you need the full library, you’ll have to download it from [www.IDesign.net](http://www.idesign.net/Downloads/GetDownload/1887)
 
 
 
